@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b1f26"/>
+      <stop offset="100%" stop-color="#14171c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="509" height="509" rx="102.5" fill="none" stroke="#2b303b" stroke-width="3"/>
+
+  <!-- folder glyph, echoing the sidebar folder icon -->
+  <path d="M120 176h84l28 34h160v182a14 14 0 0 1-14 14H120a14 14 0 0 1-14-14V190a14 14 0 0 1 14-14Z"
+        fill="none" stroke="#e8a33d" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- N mark -->
+  <path d="M196 300v-56l40 56v-56" fill="none" stroke="#e8eaed" stroke-width="20"
+        stroke-linecap="round" stroke-linejoin="round" transform="translate(20,-4)"/>
+</svg>
